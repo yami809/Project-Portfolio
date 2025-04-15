@@ -25,7 +25,7 @@ To bridge the gap between theory and practice. I love bringing concepts to life 
 
 I’m always open to collaboration, internships, research opportunities, and engaging conversations in tech!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/muhammadrevalief/]).
+- 💼 LinkedIn](https://www.linkedin.com/in/muhammadrevalief/)
 - 🌐 [Personal Website / Portfolio](https://yourwebsite.com)
 - 📧 Email: muhammadreva201201@gmail.com
 
